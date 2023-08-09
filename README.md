@@ -32,7 +32,7 @@ Guide to creating live transcriptions for streams with OBS and Google Cloud
 
 17. Right-click on your text source in the sources tab. Select Transform and click on Edit Transform.
 
-    ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/c1fe1d01-2619-4449-a026-13a5df350954)
+   ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/98242509-4fd3-4aa0-bebc-6931ddec8a13)
 
 19. Set the Positional Alignment to **Center** and Bounding Box Type to **Scale to inner bounds**.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/effe9882-9958-413e-903e-82e5c60d116d)
