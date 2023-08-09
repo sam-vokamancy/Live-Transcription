@@ -49,4 +49,5 @@ Follow these if you have already set up live transcriptions once and got it to w
 
 References:
 https://www.youtube.com/watch?v=GsYDS4bKTpM
+
 https://help.vidflex.com/article/284-obs-closed-captions-plugin
