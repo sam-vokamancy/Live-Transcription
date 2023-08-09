@@ -14,25 +14,26 @@ Guide to creating live transcriptions for streams with OBS and Google Cloud
 7. This should now create a Captions box as seen in the image below.
    ![Screenshot 2023-08-09 110348](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/ffff82fa-3383-474a-8736-408d3f067bb7)
 8. Click on the gear icon in the captions box.
+   
    ![Screenshot 2023-08-09 110425](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/cd4515ac-bf7f-4300-a3ed-92e1f6425625)
-9. In the dialogue box that appears make sure your settings of the General tab match the image below.
+10. In the dialogue box that appears make sure your settings of the General tab match the image below. Remember to click Save.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/fbfff39d-ecb6-41f7-8447-cfc8270e0ffc)
    Notes: You can change the language, number of lines and caption timeout depending on personal preferences.
-10. Add a text source in the stream and name it appropriately.
-11. In the second dialogue box that appears, click on select font.
-12. Choose your font style and set an appropriate font size. I would recommend 100.
-13. Paste the following into the text section as seen below. This text will be updated later and is needed to adjust the location of where the transcription appears.
+11. Add a text source in the stream and name it appropriately.
+12. In the second dialogue box that appears, click on select font.
+13. Choose your font style and set an appropriate font size. I would recommend 100.
+14. Paste the following into the text section as seen below. This text will be updated later and is needed to adjust the location of where the transcription appears.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/a0f6a825-37fd-4905-926d-93ae0a4c4182)
-14. Make any appropriate changes to edit the text color and click OK.
-15. On the sample stream screen adjust the location of the text. If the text box is too big you can shrink it and adjust the font size accordingly.
-16. Right-click on your text source in the sources tab. Select Transform and click on Edit Transform.
-17. Set the Positional Alignment to **Center** and Bounding Box Type to **Scale to inner bounds**.
+15. Make any appropriate changes to edit the text color and click OK.
+16. On the sample stream screen adjust the location of the text. If the text box is too big you can shrink it and adjust the font size accordingly.
+17. Right-click on your text source in the sources tab. Select Transform and click on Edit Transform.
+18. Set the Positional Alignment to **Center** and Bounding Box Type to **Scale to inner bounds**.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/effe9882-9958-413e-903e-82e5c60d116d)
-18. Click Close and readjust the text location to your desired location.
-19. Right click on the gear icon of the captions tab(Step 8) and navigate to the Open Captions tab.
-20. Click on Add Source and select your text source. Remember to Save your changes here.
+19. Click Close and readjust the text location to your desired location.
+20. Right click on the gear icon of the captions tab(Step 8) and navigate to the Open Captions tab.
+21. Click on Add Source and select your text source. Remember to Save your changes here.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/aacd3f30-bb92-48f1-a9dd-648aa17a3bf5)
-21. You can now stream and the captions should update. If you want to test it, select the gear icon on the Captions Dock and click Show Preview from the Open Captions tab.
+22. You can now stream and the captions should update. If you want to test it, select the gear icon on the Captions Dock and click Show Preview from the Open Captions tab.
 
 **Future Instructions**
 Follow these if you have already set up live transcriptions once and got it to work.
