@@ -19,7 +19,7 @@ Guide to creating live transcriptions for streams with OBS and Google Cloud
 10. In the dialogue box that appears make sure your settings of the General tab match the image below. Remember to click Save.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/fbfff39d-ecb6-41f7-8447-cfc8270e0ffc)
    Notes: You can change the language, number of lines and caption timeout depending on personal preferences.
-11. Add a text source in the stream and name it appropriately.
+11. Add a text source in the Sources dock and name it appropriately.
 12. In the second dialogue box that appears, click on select font.
 13. Choose your font style and set an appropriate font size. I would recommend 100.
 14. Paste the following into the text section as seen below. This text will be updated later and is needed to adjust the location of where the transcription appears.
