@@ -31,13 +31,16 @@ Guide to creating live transcriptions for streams with OBS and Google Cloud
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/2a9ccf22-bd29-4791-b4eb-852000528db2)
 
 17. Right-click on your text source in the sources tab. Select Transform and click on Edit Transform.
-18. Set the Positional Alignment to **Center** and Bounding Box Type to **Scale to inner bounds**.
+
+    ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/c1fe1d01-2619-4449-a026-13a5df350954)
+
+19. Set the Positional Alignment to **Center** and Bounding Box Type to **Scale to inner bounds**.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/effe9882-9958-413e-903e-82e5c60d116d)
-19. Click Close and readjust the text location to your desired location.
-20. Right click on the gear icon of the captions tab(Step 8) and navigate to the Open Captions tab.
-21. Click on Add Source and select your text source. Remember to Save your changes here.
+20. Click Close and readjust the text location to your desired location.
+21. Right click on the gear icon of the captions tab(Step 8) and navigate to the Open Captions tab.
+22. Click on Add Source and select your text source. Remember to Save your changes here.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/aacd3f30-bb92-48f1-a9dd-648aa17a3bf5)
-22. You can now stream and the captions should update. If you want to test it, select the gear icon on the Captions Dock and click Show Preview from the Open Captions tab.
+23. You can now stream and the captions should update. If you want to test it, select the gear icon on the Captions Dock and click Show Preview from the Open Captions tab.
 
 **Future Instructions**
 Follow these if you have already set up live transcriptions once and got it to work.
