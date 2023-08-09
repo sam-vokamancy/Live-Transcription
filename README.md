@@ -25,16 +25,19 @@ Guide to creating live transcriptions for streams with OBS and Google Cloud
 14. Paste the following into the text section as seen below. This text will be updated later and is needed to adjust the location of where the transcription appears.
 
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/a0f6a825-37fd-4905-926d-93ae0a4c4182)
-16. Make any appropriate changes to edit the text color and click OK.
-17. On the sample stream screen adjust the location of the text. If the text box is too big you can shrink it and adjust the font size accordingly.
-18. Right-click on your text source in the sources tab. Select Transform and click on Edit Transform.
-19. Set the Positional Alignment to **Center** and Bounding Box Type to **Scale to inner bounds**.
+15. Make any appropriate changes to edit the text color and click OK.
+16. On the sample stream screen adjust the location of the text. If the text box is too big you can shrink it and adjust the font size accordingly.
+
+    ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/2a9ccf22-bd29-4791-b4eb-852000528db2)
+
+17. Right-click on your text source in the sources tab. Select Transform and click on Edit Transform.
+18. Set the Positional Alignment to **Center** and Bounding Box Type to **Scale to inner bounds**.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/effe9882-9958-413e-903e-82e5c60d116d)
-20. Click Close and readjust the text location to your desired location.
-21. Right click on the gear icon of the captions tab(Step 8) and navigate to the Open Captions tab.
-22. Click on Add Source and select your text source. Remember to Save your changes here.
+19. Click Close and readjust the text location to your desired location.
+20. Right click on the gear icon of the captions tab(Step 8) and navigate to the Open Captions tab.
+21. Click on Add Source and select your text source. Remember to Save your changes here.
     ![image](https://github.com/sam-vokamancy/Live-Transcription/assets/136375094/aacd3f30-bb92-48f1-a9dd-648aa17a3bf5)
-23. You can now stream and the captions should update. If you want to test it, select the gear icon on the Captions Dock and click Show Preview from the Open Captions tab.
+22. You can now stream and the captions should update. If you want to test it, select the gear icon on the Captions Dock and click Show Preview from the Open Captions tab.
 
 **Future Instructions**
 Follow these if you have already set up live transcriptions once and got it to work.
